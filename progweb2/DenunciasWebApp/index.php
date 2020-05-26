@@ -33,7 +33,7 @@
         <div class="header">
             <h1>APLICACION DE DENUNCIAS</h1>
             <p>Aplicación web para el registro de denuncias del transporte publico en Colombia</p>
-            <p>Permite el control de vehiculos </p>
+            <p>Permite el control de vehiculos que esten en mal estado </p>
         </div>
         <div class="seccion">
             <h3>Registre aquí sus denuncias</h3>
